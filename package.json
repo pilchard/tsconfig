@@ -1,0 +1,22 @@
+{
+  "name": "@pilchard/tsconfig",
+  "version": "1.0.0",
+  "description": "Shared TypeScript config",
+  "license": "MIT",
+  "repository": "pilchard/tsconfig",
+  "author": "pilchard",
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration"
+  ]
+}
